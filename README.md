@@ -21,10 +21,10 @@
  
 <div>  
   <a href = "mailto:hermogenes.senior@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" target="_blank"></a>   
-[![GitHub stats do Hvivox](https://github-readme-stats.vercel.app/api?username=hvivox)](https://github.com/hvivox/github-readme-stats)
+
 </div>
 
-
+[![GitHub stats do Hvivox](https://github-readme-stats.vercel.app/api?username=hvivox&show_icons=true&theme=radical)]
 
 
 <!--
