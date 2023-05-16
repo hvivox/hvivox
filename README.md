@@ -2,6 +2,16 @@
 - 🔭 Atualmente trabalhando com desenvolvimento de sistemas ...
 - 🌱 Estou aprendo sobre microserviços e refatorando meus conhecimentos com java 17
 
+<div>
+  <a href="https://github.com/ellen2121">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=hvivox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvivox&layout=compact&langs_count=7&theme=react" />
+
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+</div>
+  
+##
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="hvivox-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="hvivox-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
@@ -16,6 +26,11 @@
   <img align="center" alt="hvivox-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="hvivox-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">    
 </div>
+ <br>
+<div  align="center"> 
+ 
+    
+</div>
 
   ##
  
@@ -26,7 +41,7 @@
 
 [![GitHub stats do Hvivox](https://github-readme-stats.vercel.app/api?username=hvivox&show_icons=true&theme=radical&hide=prs,issues,contribs)]
 
-[ ![Snake animation](https://github.com/hvivox/hvivox/blob/output/github-contribution-grid-snake.svg)]
+[![Snake animation](https://github.com/hvivox/hvivox/blob/output/github-contribution-grid-snake.svg)]
 
 <!--
 **hvivox/hvivox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
