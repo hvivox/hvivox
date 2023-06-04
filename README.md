@@ -1,6 +1,6 @@
 ## Olá👋 pessoal, sou desenvolvedor de sistemas, sejam bem vindos!
 - 🔭 Atualmente trabalhando com desenvolvimento de sistemas ...
-- 🌱 Estou aprendo sobre microserviços e refatorando meus conhecimentos com java 17
+- 🌱 Aprimorando os conhecimentos sobre microserviços com java 17
  
 <div>
   <a href="https://github.com/hvivox">
