@@ -1,13 +1,14 @@
 ## Contato:
 <div>  
 <a href="https://www.linkedin.com/in/hermogenes-silva-a9715675/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:hermogenes.senior@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" target="_blank"></a>   
 </div>
 
-## Olá👋 pessoal, sou desenvolvedor de sistemas, sejam bem vindos!
-- 🔭 Atualmente trabalhando com desenvolvimento de sistemas ...
-- 🌱 Aprimorando os conhecimentos sobre microserviços com java 17
- 
+##
+
+##👋 Sobre
+- 🔭 Sou desenvolvedor autodidata, consistente e comprometido com as melhores práticas e padrões de desenvolvimento de software. Experiência com as linguagens Java, Php, JavaScript,  SQL, SPA (Vue, AngularJS) e frameworks como Spring, Laravel etc.
+- 🌱 Busca de novos desafios como desenvolvedor, por isso decidi utilizar o GitHub para compartilhar meus projetos e habilidades. Tenho conhecimentos da metodologia Scrum que possibilitando uma entrega eficaz com foco no valor ao negócio.
+
 <div>
   <a href="https://github.com/hvivox">
   <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=hvivox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=prs,issues,contribs"/>
