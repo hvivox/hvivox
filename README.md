@@ -5,8 +5,9 @@
 
 ##
 
-##👋 Sobre
+## Sobre:
 - 🔭 Sou desenvolvedor autodidata, consistente e comprometido com as melhores práticas e padrões de desenvolvimento de software. Experiência com as linguagens Java, Php, JavaScript,  SQL, SPA (Vue, AngularJS) e frameworks como Spring, Laravel etc.
+
 - 🌱 Busca de novos desafios como desenvolvedor, por isso decidi utilizar o GitHub para compartilhar meus projetos e habilidades. Tenho conhecimentos da metodologia Scrum que possibilitando uma entrega eficaz com foco no valor ao negócio.
 
 <div>
