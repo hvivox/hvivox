@@ -1,6 +1,5 @@
 # <h1 align="center"> [![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo!>)](https://git.io/typing-svg) </h1>
 
-##
 
 <div>  
   <h1>Contato:
@@ -8,7 +7,6 @@
  </h1>
 </div>
 
-##
 
 ## Sobre:
 - 🔭 Sou desenvolvedor autodidata, consistente e comprometido na aplicação das melhores práticas e padrões de desenvolvimento de software. Experiência com as linguagens Java, Php, JavaScript,  SQL, SPA (Vue, AngularJS) e frameworks como Spring, Laravel etc.
