@@ -2,9 +2,9 @@
 
 
 <div>  
-  <h1>Contato:
+  <h2>Contato:
     <a href="https://www.linkedin.com/in/hermogenes-silva-a9715675/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </h1>
+ </h2>
 </div>
 
 
