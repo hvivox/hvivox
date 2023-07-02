@@ -1,3 +1,5 @@
+# <h1 align="center"> [![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo!>)](https://git.io/typing-svg) </h1>
+
 ## Contato:
 <div>  
 <a href="https://www.linkedin.com/in/hermogenes-silva-a9715675/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
