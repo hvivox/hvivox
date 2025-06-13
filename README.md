@@ -46,7 +46,7 @@
 
   ##
 
-![Snake animation](https://github.com/hvivox/hvivox/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/hvivox/hvivox/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
 **hvivox/hvivox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
